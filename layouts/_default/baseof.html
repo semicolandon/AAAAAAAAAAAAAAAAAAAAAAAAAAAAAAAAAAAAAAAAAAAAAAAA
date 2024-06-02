@@ -1,0 +1,17 @@
+<!doctype html>
+<html lang="{{ .Site.LanguageCode | default "en-us" }}">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	{{ with .Site.Params.title }}<title>{{ . }}</title>{{ end }}
+	{{ with .Site.Params.description }}<meta name="description" content="{{ . }}">{{ end }}
+	{{ with .Site.Params.author }}<meta name="author" content="{{ . }}">{{ end }}
+	<link rel="icon" type="image/x-icon" href="/favicon.ico">
+	<link rel="stylesheet" href="{{ "css/style.css" | relURL }}">
+</head>
+<body>
+	<main>
+	  {{ block "main" . }}{{ end }}
+	</main>
+</body>
+</html>

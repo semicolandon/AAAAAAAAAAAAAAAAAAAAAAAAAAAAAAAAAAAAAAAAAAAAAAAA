@@ -1,0 +1,7 @@
+baseURL = "https://hopethis.help"
+
+
+[params]
+title = "hope this helps"
+description = "homepage for hope this helps"
+author = "landon issac"
