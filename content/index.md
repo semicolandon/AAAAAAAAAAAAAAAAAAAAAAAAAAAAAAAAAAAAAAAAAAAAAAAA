@@ -1,7 +1,7 @@
 # hope this helps (:
 
 lame links:
-- [stream music :3](https://songwhip.com/hopethishelps/birthday-girl)
+- [stream music :3](https://songwhip.com/hopethishelps/life-time-warranty)
 - [baby girl's microblog](https://x.com/hope_thishelps)
 
 cool links
